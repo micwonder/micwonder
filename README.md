@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-![](https://komarev.com/ghpvc/?username=micwonder&color=lightgreen)
+![](https://komarev.com/ghpvc/?username=micwonder&color=brightgreen)
 
 <!--
 **micwonder/micwonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
