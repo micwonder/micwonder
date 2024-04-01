@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔥 &nbsp; My Stats :
+
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default" width="800">-->
+![MicWonder's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=micwonder\&show_icons=true\&theme=default#gh-light-mode-only)
+
+![MicWonder's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder)
