@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default#gh-light-mode-only" width="800">-->
-  <p>
+  <p align="center">
     <a href="https://github.com/micwonder">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=micwonder&show_icons=true&count_private=true&theme=default" />
     </a>
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder&layout=compact&langs_count=10&theme=default" />
     </a>
     <a href="https://github.com/micwonder">
-      <img height="200em" src="https://streak-stats.demolab.com/?user=micwonder&theme=transparent" />
+      <img height="200em" src="https://streak-stats.demolab.com/?user=micwonder&theme=meta-light" />
     </a>
   </p>
-  <p><a href="https://github.com/micwonder">
+  <p align="center"><a href="https://github.com/micwonder">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=techguru0" />
   </a></p>
 </p>
