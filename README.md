@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 ### 🔥 &nbsp; My Stats :
 
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default" width="800">-->
-  <a href="https://github.com/micwonder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micwonder&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/micwonder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder&layout=compact&langs_count=10" />
-  </a>
-  <a href="https://github.com/micwonder">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=micwonder&theme=default#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/micwonder">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default#gh-light-mode-only" width="800">-->
+  <p>
+    <a href="https://github.com/micwonder">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=micwonder&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/micwonder">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder&layout=compact&langs_count=10theme=transparent#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/micwonder">
+      <img height="200em" src="https://streak-stats.demolab.com/?user=micwonder&theme=default#gh-light-mode-only" />
+    </a>
+  </p>
+  <p><a href="https://github.com/micwonder">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=techguru0" />
-  </a>
+  </a></p>
 </p>
