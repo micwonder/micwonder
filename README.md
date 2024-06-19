@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default" width="800">-->
+  
   ![MicWonder's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=micwonder\&show_icons=true\&theme=default#gh-light-mode-only)
 
   ![MicWonder's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)
