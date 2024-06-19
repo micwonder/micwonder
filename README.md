@@ -30,7 +30,7 @@ Here are some ideas to get you started:
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder&layout=compact&langs_count=10&theme=default" />
     </a>
     <a href="https://github.com/micwonder">
-      <img height="200em" src="https://streak-stats.demolab.com/?user=micwonder&theme=meta-light" />
+      <img height="200em" src="https://streak-stats.demolab.com/?user=micwonder&theme=default&ring=#2F80ED" />
     </a>
   </p>
   <p align="center"><a href="https://github.com/micwonder">
