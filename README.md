@@ -24,13 +24,14 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default" width="800">-->
   <a href="https://github.com/micwonder">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micwonder&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
-    ![MicWonder's GitHub stats-Light]()
   </a>
   <a href="https://github.com/micwonder">
-    <img>
-    ![MicWonder's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder" />
   </a>
   <a href="https://github.com/micwonder">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micwonder)
+    <img height="180em" src="https://streak-stats.demolab.com/?user=micwonder&theme=default#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/micwonder">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=techguru0" />
   </a>
 </p>
