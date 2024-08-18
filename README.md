@@ -36,5 +36,4 @@ Here are some ideas to get you started:
   <p align="center"><a href="https://github.com/micwonder">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=techguru0" />
   </a></p>
-  <img src="https://wakatime.com/share/@techguru0/109b21d6-9875-4c12-9ae7-e2d5b252b9a6.svg" />
 </p>
